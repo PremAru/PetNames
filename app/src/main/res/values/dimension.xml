@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_small">8dp</dimen>
+    <dimen name="dimen_medium">16dp</dimen>
+    <dimen name="dimen_large">24dp</dimen>
+    <dimen name="item_margin_left">40dp</dimen>
+    <dimen name="header_title_size">24sp</dimen>
+    <dimen name="item_text_size">20sp</dimen>
+</resources>
